@@ -1,0 +1,1 @@
+logger.info(f"Loaded {len(docs_from_documentation)} docs from documentation")
